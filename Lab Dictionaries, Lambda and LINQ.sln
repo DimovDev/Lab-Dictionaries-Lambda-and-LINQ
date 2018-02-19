@@ -5,15 +5,15 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Count Real Numbers", "1. Count Real Numbers\1. Count Real Numbers.csproj", "{22CB3941-FD86-4A3C-8CBA-BB44B174DFDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Odd Occurrences", "2. Odd Occurrences\2. Odd Occurrences.csproj", "{A6746A7B-1993-4DFC-ACED-A50BD72E6E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Odd Occurrences", "2. Odd Occurrences\2. Odd Occurrences.csproj", "{A6746A7B-1993-4DFC-ACED-A50BD72E6E00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Sum, Min, Max, Average", "3. Sum, Min, Max, Average\3. Sum, Min, Max, Average.csproj", "{22DD1420-1C5D-4649-9B63-F3D89F95D266}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Sum, Min, Max, Average", "3. Sum, Min, Max, Average\3. Sum, Min, Max, Average.csproj", "{22DD1420-1C5D-4649-9B63-F3D89F95D266}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Largest 3 Numbers", "4. Largest 3 Numbers\4. Largest 3 Numbers.csproj", "{A8CF0F77-8BF3-4D7A-843E-54A7F2A31D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Largest 3 Numbers", "4. Largest 3 Numbers\4. Largest 3 Numbers.csproj", "{A8CF0F77-8BF3-4D7A-843E-54A7F2A31D0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleA5. Short Words Sortedpp1", "ConsoleA5. Short Words Sortedpp1\ConsoleA5. Short Words Sortedpp1.csproj", "{19A1F076-340A-47CC-9F62-0CBBCF947D0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Short Words Sortedpp1", "ConsoleA5. Short Words Sortedpp1\5. Short Words Sortedpp1.csproj", "{19A1F076-340A-47CC-9F62-0CBBCF947D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Fold and Sum", "6. Fold and Sum\6. Fold and Sum.csproj", "{4BCA2618-F04C-4AF4-B013-E3E291AF8825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Fold and Sum", "6. Fold and Sum\6. Fold and Sum.csproj", "{4BCA2618-F04C-4AF4-B013-E3E291AF8825}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
